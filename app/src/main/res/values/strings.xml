@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="X_value">La valeur de X</string>
+    <string name="Y_value">La valeur de Y</string>
+    <string name="Calculet">Calculate</string>
+    <string name="sum">Somme</string>
+    <string name="substraction">Soustraction</string>
+    <string name="multiplication">Multiplication</string>
+</resources>
